@@ -1,13 +1,10 @@
 import './App.css';
-import Posts from './components/Posts';
-
-
-
-
+import Comments from './components/Comments';
+// import Posts from './components/Posts';
 
 function App() {
   return (
-   <Posts />
+   <Comments />
    
   );
 }
